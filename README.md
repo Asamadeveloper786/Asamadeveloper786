@@ -1,5 +1,4 @@
 Hello, I'm Asama Sande 👋
-<!--
 **Asamadeveloper786/Asamadeveloper786** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here<h1 align = "center">Hello, I'm Asama Sande 👋</h1>
 <h3 align = "center">FULL STACK DEVELPOMENT INTERNSHIP EDUREKA</h3>
